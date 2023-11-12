@@ -1,5 +1,9 @@
 # 💫 About Me
-I am a Network Engineering Student<br>I am learning computer programming, automation and Linux
+I am a Network Engineering Student
+
+I am learning computer programming, automation and Linux
+
+Blog: [blog.ericjhernandezj.com](https://blog.ericjhernandezj.com)
 
 
 ## 🌐 Socials
